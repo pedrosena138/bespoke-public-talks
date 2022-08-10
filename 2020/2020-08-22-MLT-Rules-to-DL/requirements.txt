@@ -5,3 +5,4 @@ spacy>=2.3.0
 fastai>=1.0.61
 transformers>=2.11.0
 fuzzywuzzy>=0.17.0
+fastcore>=1.0.9
